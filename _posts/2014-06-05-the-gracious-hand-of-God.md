@@ -1,4 +1,9 @@
-# Recognising the gracious hand of God
+---
+layout: post
+title: The gracious hand of God
+---
+
+h1. {{ page.title }}
 
 We'd do well to recognise when God has acted graciously towards us; Often we attribute outcomes to our own effort.
 
